@@ -1,0 +1,18 @@
+table{
+    background: pink; border-color: rgb(65, 52, 65);
+    color :black;
+    align-items: center;
+    text-align: center;
+}
+td{
+    background: white;
+    color: blue;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    box-shadow: white;
+}
+a:hover{
+    text-decoration: rgb(231, 47, 139);
+}

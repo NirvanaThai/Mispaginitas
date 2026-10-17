@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    color: rgb(197, 23, 23);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    a{
+        color:black;
+        
+        text-decoration: more;
+    }
+}
+a{
+    text-decoration:none ;
+}
+a:hover {
+    color:rgb(104, 82, 82);
+    font-size: 16pt;
+}
+h1{
+    color:black;
+}
+
+
